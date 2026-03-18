@@ -6,3 +6,4 @@ torchvision
 ultralytics
 jupyter
 ipykernel
+mediapipe
